@@ -7,6 +7,6 @@ Most of the files have notes in Brazilian Portuguese, mainly the docx called not
 
 Course taught by Fernando Amaral - https://www.udemy.com/course/cientista-de-dados/
 
-Course still in progress, I have currently completed approximately 60% of it, but I still have the second chapter focused on statistics, machine learning, neural networks and deep learning, SQL, NoSQL, Sparl with Databricks and projects.
+Course still in progress, I have currently completed approximately 60% of it, but I still have the second part focused on statistics, machine learning, neural networks and deep learning, SQL, NoSQL, Spark with Databricks and projects.
 
 I will not upload any PDF files or slides from the course out of respect for the person responsible for it.
